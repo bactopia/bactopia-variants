@@ -1,5 +1,5 @@
 #! /bin/bash
-VERSION=1.0.0
+VERSION=1.0.1
 PREFIX=$1
 
 # If no user input, print usage
